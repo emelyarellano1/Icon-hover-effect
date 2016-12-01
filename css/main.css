@@ -1,0 +1,93 @@
+h1, .h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+code, kbd, pre, samp {
+    text-align: center;
+    font-size: 1em;
+}
+.tes-1{
+		width: 100%;
+		height: 50%;
+	    background-color: #eea303;
+	    text-align: center;
+	    padding:130px;
+}
+
+.tes-2{
+	width: 100%;
+	height: 50%;
+	background-color: #f06060;;
+	text-align: center;
+	padding:130px;
+}
+.tes-3{
+	width: 100%;
+	height: 50%;
+	background-color: #64bb5d;
+	text-align: center;
+	padding:130px;
+}
+
+/*Icons*/
+.fa-rocket, .fa-sun-o, .fa-moon-o, .fa-venus, .fa-mars, .fa-transgender-alt{
+	width: 100px;
+    height: 100px;
+	color: #ffffff;
+	border-radius:5px;
+	font-size:52px;
+	margin: 54px;
+	border: 5px solid;
+    border-radius: 96px;
+    padding-top:16px; 
+    -webkit-transition: all 6ms ease;
+	-moz-transition: all 6ms ease;
+	-ms-transition: all 6ms ease;
+	-o-transition: all 6ms ease;
+	transition: all 6ms ease;
+	animation: volar 3 800ms;
+}
+
+.fa-rocket:hover, .fa-sun-o:hover, .fa-moon-o:hover, .fa-venus:hover, .fa-mars:hover, .fa-transgender-alt:hover{
+	color:#FAC95F;
+	width: 110px;
+    height: 110px;
+    padding-top:26px;
+}
+
+
+.fa-fire, .fa-hand-o-left, .fa-tint, .fa-hand-o-right, .fa-wheelchair-alt, .fa-hand-scissors-o, .fa-hand-o-left, .fa-hand-pointer-o, .fa-hand-o-right, .fa-thumbs-up{
+	width: 100px;
+    height: 100px;
+	color: #ffffff;
+	border-radius:5px;
+	font-size:52px;
+	margin: 54px;
+	border: 5px solid;
+    border-radius: 96px;
+    padding-top:16px; 
+}
+.fa-fire:before, .fa-hand-o-left, .fa-tint, .fa-hand-o-right, .fa-wheelchair-alt, .fa-hand-scissors-o, .fa-hand-o-left, .fa-hand-pointer-o, .fa-hand-o-right, .fa-thumbs-up{
+	width: 100px;
+    height: 100px;
+	color: #ffffff;
+	border-radius:5px;
+	font-size:52px;
+	margin: 54px;
+	border: 5px solid;
+    border-radius: 96px;
+    padding-top:16px; 
+}
+
+.fa-align-center, .fa-align-justify, .fa-align-left, .fa-align-right, .fa-list, .fa-scissors, .fa-floppy-o, .fa-paperclip, .fa-text-width, .fa-underline{
+	width: 100px;
+    height: 100px;
+	color: #ffffff;
+	border-radius:5px;
+	font-size:52px;
+	margin: 54px;
+	border: 5px solid;
+    border-radius: 96px;
+    padding-top:16px;
+}
